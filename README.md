@@ -25,3 +25,16 @@ You can also link to your reviews on Google my business, Facebook, Yelp, Yellow 
 * Supports HTTPS enabled websites
 * GDPR Compliant.
 * WooCommerce compitable.
+
+### Installation
+In WordPress:
+* Go to Plugins > Add New > search for Social Bucket
+* Press “Install Now” for the Social Bucket plugin
+* Press “Activate Plugin”
+
+Manual installation:
+* Upload the social-bucket directory to the /wp-content/plugins/ directory
+* Activate the plugin through the “Plugins” menu in WordPress
+
+WP-CLI installation:
+* wp plugin install social-bucket –activate
